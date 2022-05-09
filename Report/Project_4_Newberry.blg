@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Project_4_Newberry.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: reference.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--edition ordinal word "Third edition" may be too high (or improper) for conversion in yates_probability_2014
+Warning--edition ordinal word "Second edition" may be too high (or improper) for conversion in geron_hands-machine_2019
+
+Done.
+You've used 10 entries,
+            4087 wiz_defined-function locations,
+            872 strings with 8990 characters,
+and the built_in function-call counts, 4805 in all, are:
+= -- 336
+> -- 111
+< -- 19
++ -- 56
+- -- 22
+* -- 236
+:= -- 739
+add.period$ -- 20
+call.type$ -- 10
+change.case$ -- 13
+chr.to.int$ -- 51
+cite$ -- 12
+duplicate$ -- 385
+empty$ -- 444
+format.name$ -- 24
+if$ -- 1083
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 81
+newline$ -- 61
+num.names$ -- 6
+pop$ -- 246
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 6
+skip$ -- 348
+stack$ -- 0
+substring$ -- 92
+swap$ -- 246
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 10
+warning$ -- 2
+while$ -- 11
+width$ -- 12
+write$ -- 105
+(There were 2 warnings)
